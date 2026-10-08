@@ -93,6 +93,15 @@ These folders organise work that can demonstrate practical skills to employers. 
 - Technologies used and design decisions
 - Tests, known limitations and possible improvements
 
+## Portfolio & Career Materials
+
+I'm organising this repository so people reviewing my work can quickly find projects, source code and evidence of what I've built.
+
+- [**Career Portfolio**](Career_Portfolio/README.md) — project case studies, demos and supporting career materials.
+- [**Python Programming**](Python_Programming/README.md) — Python learning notes and application projects.
+- [**HTML & Web Projects**](HTML_Programming/README.md) — website projects grouped with their documentation.
+- **Other learning areas:** [C++](Cpp_Programming/README.md) · [Blender](Blender_Projects/README.md) · [iOS](iOS_Programming/README.md) · [Reverse Engineering](Reverse_Engineering/README.md)
+
 ## Cybersecurity Learning
 
 I practise in authorised training environments, including Hack The Box. My lab notes focus on identifying services, checking access controls and understanding the security lessons behind common misconfigurations.
