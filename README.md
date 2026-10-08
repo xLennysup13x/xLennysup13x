@@ -67,7 +67,7 @@ These folders are the workspace for projects I build and learning exercises I do
 |---|---|
 | [Blender Projects](Blender_Projects/README.md) | 3D models, scenes, materials and renders |
 | [C++ Programming](Cpp_Programming/README.md) | C++ practice, algorithms and small applications |
-| [HTML Programming](HTML_Programming/README.md) | Websites, HTML/CSS layouts and JavaScript experiments |
+| [HTML & Web Projects](HTML_Programming/README.md) | College Green, Ghost, GhostMind Website 1.0 and GhostPepe website projects |
 | [iOS Programming](iOS_Programming/README.md) | Swift and iOS app experiments |
 | [Python Programming](Python_Programming/README.md) | Python tools, scripts and applications |
 | [Reverse Engineering](Reverse_Engineering/README.md) | Authorised analysis exercises and technical notes |
