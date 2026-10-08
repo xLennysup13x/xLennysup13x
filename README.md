@@ -6,32 +6,62 @@
 </p>
 
 <p align="center">
-  Building digital projects, strengthening my technical skills, and learning security through authorised lab environments.
+  Building practical software, improving my development skills, and learning security through authorised lab environments.
 </p>
 
 ---
 
 ## About Me
 
-I'm a self-taught developer who enjoys turning ideas into practical digital projects. Alongside web development, I'm building my knowledge of Linux, networking and cybersecurity through hands-on exercises and technical notes.
+I'm a self-taught developer who enjoys turning ideas into useful digital tools. Alongside web development, I'm building my knowledge of Python, Linux, networking and cybersecurity through hands-on projects and technical notes.
 
-I use this profile to share projects, track what I'm learning, and document lessons from authorised training labs.
+I use this profile to document what I'm learning and share projects as I build and test them.
 
-## Projects
+## Projects to Build
 
-| Project | Description | Technologies / Focus |
-|---|---|---|
-| **GhostWear** | E-commerce project | React, Firebase, Stripe |
-| **GHOST Bank** | Banking application concept — in development | Flask, Flutter, JWT |
-| **XAU/USD Trading Toolkit** | Trading research and automation project | Smart Money Concepts, automation |
-| **GhostMind portfolio** | Personal portfolio website | React, EmailJS, Tailwind CSS |
-| **GhostMind Capital** | My business and project brand | [GitHub repository](https://github.com/xLennysup13x/GhostMind-Capital) |
+These are planned projects, not completed products. I'll add repository links, screenshots and demos as each one becomes usable.
 
-> I'm reviewing project links and technology details as I refresh this profile. Project status and features may change as the work develops.
+### 1. Shift & Pay Tracker
+A simple web app for recording shifts, hours worked, hourly pay and estimated weekly or monthly earnings.
+
+- **MVP:** Add/edit shifts, calculate hours and estimated gross pay, filter by week, export a CSV.
+- **Tech:** React, Flask, SQLite, Python.
+- **Stretch goal:** Compare planned shifts with actual hours and show a monthly summary.
+
+### 2. Website Uptime & SSL Monitor
+A dashboard that checks websites I own or have permission to monitor and records whether they respond successfully.
+
+- **MVP:** Add a URL, run a manual check, record status code and response time, show recent history.
+- **Tech:** Python, Flask, SQLite, requests, React.
+- **Stretch goal:** Scheduled checks, uptime charts and alerts when a site goes down or an SSL certificate is nearing expiry.
+
+### 3. Personal Budget Dashboard
+A local-first budgeting app for tracking income, spending categories, bills and savings goals without connecting to a bank account.
+
+- **MVP:** Add transactions, create categories, set monthly budgets and view totals.
+- **Tech:** React, Flask, SQLite, Chart.js.
+- **Stretch goal:** CSV import, recurring bill reminders and month-to-month comparisons.
+
+### 4. Home Lab Scan Report Tool
+A small tool for organising results from security scans performed only on my own devices or explicitly authorised lab targets.
+
+- **MVP:** Import an Nmap XML report, display discovered hosts and services, and export a readable summary.
+- **Tech:** Python, Flask, XML parsing, HTML/CSS.
+- **Stretch goal:** Compare reports over time and highlight changes in exposed services.
+- **Safety:** The first version analyses imported scan files; scanning is only performed against systems I am authorised to test.
+
+### Build order
+
+1. **Shift & Pay Tracker** — start with forms, calculations and database CRUD.
+2. **Website Uptime & SSL Monitor** — practise HTTP requests, history and background scheduling.
+3. **Personal Budget Dashboard** — practise data visualisation and filtering.
+4. **Home Lab Scan Report Tool** — practise parsing structured data and writing security-focused reports.
+
+I'll mark a project as in progress only after I have started building it, and as complete only after the core features work and the README includes setup instructions.
 
 ## Cybersecurity Learning
 
-I practise in authorised training environments, including Hack The Box. My current lab notes focus on identifying services, checking access controls, and understanding the security lessons behind common misconfigurations.
+I practise in authorised training environments, including Hack The Box. My lab notes focus on identifying services, checking access controls and understanding the security lessons behind common misconfigurations.
 
 | Lab write-up | Topics explored | Key lesson |
 |---|---|---|
@@ -45,9 +75,9 @@ These are beginner study notes with target IPs replaced by placeholders. Flags, 
 
 **Development**
 - React, JavaScript, Python and Flask
-- Firebase, Stripe and APIs
+- SQLite, Firebase and APIs
 - HTML, CSS and Tailwind CSS
-- Flutter and JWT-based authentication concepts
+- Flutter and JWT authentication concepts
 
 **Cybersecurity learning**
 - Linux command line and networking fundamentals
@@ -59,9 +89,9 @@ I'm continuing to build these skills through practice, so this list reflects tec
 
 ## Current Focus
 
+- Building small, working applications from start to finish
+- Writing clear setup instructions and project documentation
 - Improving my understanding of Linux and networking
-- Writing clear, evidence-based lab notes
-- Building and maintaining useful software projects
 - Learning how to identify misconfigurations and explain how to reduce risk
 
 ## Connect
