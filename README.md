@@ -72,6 +72,27 @@ These folders are the workspace for projects I build and learning exercises I do
 | [Python Programming](Python_Programming/README.md) | Python tools, scripts and applications |
 | [Reverse Engineering](Reverse_Engineering/README.md) | Authorised analysis exercises and technical notes |
 
+## Professional Portfolio
+
+These folders organise work that can demonstrate practical skills to employers. They are starter structures; I will add source code, evidence and project documentation as I build each item.
+
+| Area | What it demonstrates |
+|---|---|
+| [Python Programming](Python_Programming/README.md) | Programming fundamentals, automation and complete Python projects |
+| [HTML & Web Projects](HTML_Programming/README.md) | Website structure, responsive interfaces and frontend development |
+| [C++ Programming](Cpp_Programming/README.md) | Problem-solving, algorithms and compiled applications |
+| [iOS Programming](iOS_Programming/README.md) | Mobile app development and Swift practice |
+| [Blender Projects](Blender_Projects/README.md) | 3D modelling and creative technical work |
+| [Reverse Engineering](Reverse_Engineering/README.md) | Documented, authorised technical analysis |
+
+### What I aim to include in each finished project
+
+- A clear problem statement and feature list
+- Screenshots, demo or sample output
+- Verified setup and run instructions
+- Technologies used and design decisions
+- Tests, known limitations and possible improvements
+
 ## Cybersecurity Learning
 
 I practise in authorised training environments, including Hack The Box. My lab notes focus on identifying services, checking access controls and understanding the security lessons behind common misconfigurations.
