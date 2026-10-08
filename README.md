@@ -59,6 +59,19 @@ A small tool for organising results from security scans performed only on my own
 
 I'll mark a project as in progress only after I have started building it, and as complete only after the core features work and the README includes setup instructions.
 
+## Programming & Creative Project Folders
+
+These folders are the workspace for projects I build and learning exercises I document. They are starter folders; individual projects will be added as I develop them.
+
+| Folder | What belongs here |
+|---|---|
+| [Blender Projects](Blender_Projects/README.md) | 3D models, scenes, materials and renders |
+| [C++ Programming](Cpp_Programming/README.md) | C++ practice, algorithms and small applications |
+| [HTML Programming](HTML_Programming/README.md) | Websites, HTML/CSS layouts and JavaScript experiments |
+| [iOS Programming](iOS_Programming/README.md) | Swift and iOS app experiments |
+| [Python Programming](Python_Programming/README.md) | Python tools, scripts and applications |
+| [Reverse Engineering](Reverse_Engineering/README.md) | Authorised analysis exercises and technical notes |
+
 ## Cybersecurity Learning
 
 I practise in authorised training environments, including Hack The Box. My lab notes focus on identifying services, checking access controls and understanding the security lessons behind common misconfigurations.
