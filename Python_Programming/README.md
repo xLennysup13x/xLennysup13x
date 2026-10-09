@@ -1,21 +1,18 @@
 # Python Programming
 
-Organised Python workspace for learning fundamentals and building complete, documented projects.
+A workspace for learning Python fundamentals and building small programs. The code is at different stages, so check each project's notes before treating it as complete.
 
-## Learning and projects
+## Start here
 
-| Folder | Purpose |
-|---|---|
-| [Introduction to Python](Introduction_to_Python/README.md) | Beginner notes, exercises and core language concepts |
-| [Python Program Projects](Python_Program_Projects/README.md) | Complete Python applications, tools and utilities |
+- [Introduction to Python](Introduction_to_Python/README.md) — lesson notes and examples for beginners.
+- [Python mini-projects](Python_Program_Projects/README.md) — an age calculator, grade-calculation function, and other experiments.
 
-## Standards for each project
+## Working on a project
 
-- Explain the problem and intended users.
-- Include clear setup and run instructions.
-- List the Python version and dependencies.
-- Provide tests or example output.
-- Use meaningful names and readable code.
-- Keep secrets, local configuration, virtual environments and cache files out of Git.
+1. Read the project notes.
+2. Check that Python 3 is installed.
+3. Run the relevant script using the instructions provided.
+4. Try normal, invalid, and boundary inputs.
+5. Add tests or example output and document any limitations.
 
-Projects will be labelled as learning, in progress or complete based on their actual state.
+Keep code readable and never commit passwords, tokens, private configuration, or local environment files.
