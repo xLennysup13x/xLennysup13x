@@ -1,14 +1,12 @@
-# Blender projects
+# Blender Projects
 
-Store Blender scenes, models, materials, and rendering experiments here. Add a short README to each project with the goal, Blender version, assets, and screenshots. Do not commit large generated renders or third-party assets unless licensing permits.
+A workspace for 3D models, materials, scenes, and rendering experiments. Add a folder for each project when work begins.
 
-## Projects
+Each project README should cover:
+- Goal and current status
+- Blender version and tools
+- How to open or reproduce the work
+- Screenshots or renders
+- What was learned and what remains to improve
 
-Add project folders here. Each project should include its own README with:
-- Purpose and features
-- Tools and versions
-- Setup and usage instructions
-- Screenshots or sample output where useful
-- What I learned and possible improvements
-
-> Keep credentials, private data, and files you do not have permission to redistribute out of this repository.
+Only include third-party assets you are allowed to redistribute, and avoid committing unnecessary large render files.
