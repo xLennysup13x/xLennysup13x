@@ -1,15 +1,14 @@
-# Lesson 8
+# LESSON 8 — Next lesson placeholder
 
-Add the Lesson 8 source files and notes here. Record the topic covered, examples, and what you learned.
+**Status:** Folder prepared; source file has not been added yet.
 
-## Lesson files
+Add the lesson source file when the topic is ready.
 
-Add the original Python scripts, exercises, and notes for this lesson here.
+## Study notes
 
-## Notes
+- Run the example with Python 3.
+- Write a short explanation of the key concept in your own words.
+- Try changing the example and record the output.
+- Add one small practice exercise and note any questions.
 
-- **Concepts covered:** Add the topics from the lesson.
-- **Practice:** Add exercises and examples.
-- **What I learned:** Summarise the main takeaway.
-
-> This is a folder placeholder. The original lesson files have not been uploaded yet.
+Keep the lesson focused on the concept and avoid including passwords or personal data.
