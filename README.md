@@ -1,52 +1,61 @@
-# Lenny William Palmer
+# GhostMind
 
-**Self-taught developer | Python · Web Development · Cybersecurity Labs**
+**Cybersecurity · Software Development · Artificial Intelligence**
 
-I'm learning by building small projects, documenting what I discover, and improving my code over time. This repository brings together my programming exercises, website experiments, and notes from authorised cybersecurity labs.
+Welcome to GhostMind — my technology brand and public build log. I'm developing practical projects across cybersecurity, software, and AI, documenting what I learn and improving each project step by step.
 
-- **Portfolio:** [ghostmind.dev](https://ghostmind.dev/)
-- **GitHub projects:** [Browse repositories](https://github.com/xLennysup13x?tab=repositories)
+🌐 **Main brand:** [ghostmind.dev](https://ghostmind.dev/) · 💻 **[Browse my repositories](https://github.com/xLennysup13x?tab=repositories)**
 
-## Featured work
+> GhostMind is a work in progress. I share learning projects and experiments honestly, with clear notes about what is complete and what still needs work.
 
-| Project | Summary | Status |
+## What I'm building
+
+| Area | Focus | Explore |
 |---|---|---|
-| [GhostPepe Website](HTML_Programming/ghostpepe-website-meme-coin-project/README.md) | Single-page HTML website concept with a dark theme and community links | Needs review |
-| [Age Calculator](Python_Programming/Python_Program_Projects/Welcome%20to%20the%20age%20calculator!.py) | Beginner Python program for practising date and input handling | Learning project |
-| [Grade Calculator](Python_Programming/Python_Program_Projects/calculate_grade.py) | Small function that maps a score to a grade | Learning project |
-| [HTB Lab Write-ups](writeups/README.md) | Notes on SMB, FTP, and Redis fundamentals in authorised training labs | Learning notes |
+| **GhostMind Security** | Authorised cybersecurity labs, service fundamentals, defensive lessons and write-ups | [Lab write-ups](writeups/README.md) |
+| **GhostMind Software** | Python exercises, web development and practical developer projects | [Python projects](Python_Programming/README.md) · [Web projects](HTML_Programming/README.md) |
+| **GhostMind AI** | Learning and experimenting with AI tools and applications | More projects coming as I build and document them |
 
-> Project status is stated honestly: not every folder is a finished application. The GhostPepe page includes token-related information that must be verified before it is promoted or relied on.
+## Featured projects
 
-## Explore the repository
+### 🌐 GhostMind — Main brand website
+My portfolio and central home for GhostMind. The goal is to bring my cybersecurity, software and future AI projects together in one place.
 
-- [Python programming](Python_Programming/README.md) — fundamentals, lessons, and small programs
-- [HTML and web development](HTML_Programming/README.md) — website source and project notes
-- [Cybersecurity write-ups](writeups/README.md) — beginner lab notes and defensive takeaways
-- [Career portfolio](Career_Portfolio/README.md) — a structure for project case studies
-- [C++](Cpp_Programming/README.md) · [iOS](iOS_Programming/README.md) · [Blender](Blender_Projects/README.md) · [Reverse engineering](Reverse_Engineering/README.md) — organised spaces for future work
+**[Visit ghostmind.dev](https://ghostmind.dev/)** · [Website source repository](https://github.com/xLennysup13x/ghostmind)
+
+### 🐍 Python learning projects
+- [Age Calculator](Python_Programming/Python_Program_Projects/Welcome%20to%20the%20age%20calculator!.py) — practising date handling and user input.
+- [Grade Calculator](Python_Programming/Python_Program_Projects/calculate_grade.py) — practising functions and conditional logic.
+
+### 🧪 Cybersecurity lab notes
+- [HTB write-ups](writeups/README.md) — learning notes on SMB, FTP and Redis fundamentals in authorised training labs.
+
+### 🎨 Web experiments
+- [GhostPepe website project notes](HTML_Programming/ghostpepe-website-meme-coin-project/README.md) — a single-page website concept. Any token-related statements should be independently verified before being relied on.
 
 ## Skills I'm developing
 
-- **Programming:** Python, HTML, CSS, and JavaScript fundamentals
-- **Web development:** page structure, layouts, and project organisation
-- **Systems:** Linux command line and networking basics
-- **Cybersecurity:** service enumeration and access-control concepts in authorised labs
-- **Workflow:** Git, GitHub, documentation, and iterative improvement
+- **Software:** Python, HTML, CSS and JavaScript fundamentals
+- **Cybersecurity:** Linux, networking concepts, service enumeration and authorised lab practice
+- **AI:** exploring practical applications and responsible integrations
+- **Workflow:** Git, GitHub, documentation and iterative testing
 
-These are current learning areas, not a claim of professional-level expertise or certification.
+These are current learning areas, not claims of professional-level expertise or certification.
 
-## Current priorities
+## Current roadmap
 
-1. Finish and test one small Python project from start to finish.
-2. Improve project READMEs with clear instructions and examples.
-3. Review the GhostPepe website, including links, claims, accessibility, and mobile layout.
-4. Add source files, screenshots, and tests as projects become ready.
+1. Improve the GhostMind website and make project links accurate.
+2. Finish and test a small software project with clear setup instructions.
+3. Publish useful, responsible cybersecurity lab notes.
+4. Build and document a small AI experiment.
+5. Add screenshots, demos and tests as projects become ready.
 
-## Publishing responsibly
+## Responsible building
 
-- Never commit passwords, API keys, wallet seed phrases, private keys, or personal data.
-- Test only systems you own or are explicitly authorised to assess.
-- See the [Security Policy](SECURITY.md) and [Portfolio Review Checklist](REVIEW_CHECKLIST.md).
+- Only test systems I own or am explicitly authorised to assess.
+- Never commit passwords, API keys, wallet seed phrases, private keys or personal data.
+- Explain project status, limitations and setup steps clearly.
 
-Thanks for taking a look. Feedback and suggestions are welcome through GitHub.
+For security-related concerns, see [SECURITY.md](SECURITY.md). For quality checks, see [REVIEW_CHECKLIST.md](REVIEW_CHECKLIST.md).
+
+**Build. Test. Learn. Improve.** That's the GhostMind approach.
