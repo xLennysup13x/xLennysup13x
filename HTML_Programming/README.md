@@ -1,17 +1,25 @@
-# HTML & Web Projects
+# HTML and Web Projects
 
-This directory groups website work by project. Some folders currently contain only starter documentation; the source file that is present in this folder is GhostPepe. I'll add the other local projects after their files have been reviewed and uploaded.
+Website experiments and project documentation, grouped by project. **GhostPepe is the only project in this folder with website source currently present; the other folders are documentation placeholders awaiting their original files.**
 
 ## Projects
 
-| Project | Current contents | Next step |
+| Project | What is currently available | Next step |
 |---|---|---|
-| [GhostPepe Website](ghostpepe-website-meme-coin-project/README.md) | [HTML source](ghostpepe-website-meme-coin-project/GhostPepe%20Website.html) | Verify external links and token claims, check responsiveness, add screenshots and test buttons |
-| [City of Bristol College Green](city-of-bristol-collage-green/README.md) | Starter documentation | Upload the original website files |
-| [Ghost](ghost/README.md) | Starter documentation | Upload the original website files and clarify the purpose |
-| [GhostMind Official Website 1.0](ghostmind-official-website-1-0/README.md) | Starter documentation | Upload the original website files |
+| [GhostPepe Website](ghostpepe-website-meme-coin-project/README.md) | [HTML source](ghostpepe-website-meme-coin-project/GhostPepe%20Website.html) | Check links, verify claims, test layout and add screenshots |
+| [City of Bristol College Green](city-of-bristol-collage-green/README.md) | Project notes only | Add the original source and permitted assets |
+| [Ghost](ghost/README.md) | Project notes only | Add source files and explain the purpose |
+| [GhostMind Official Website 1.0](ghostmind-official-website-1-0/README.md) | Project notes only | Add source files and document the version |
 
-## Suggested structure for each website
+## Before sharing a website
+
+- Test on mobile and desktop.
+- Check every link, button, and form.
+- Verify claims and use assets you have permission to publish.
+- Keep credentials and private configuration out of the repository.
+- Add simple run instructions, screenshots, and known limitations.
+
+Suggested structure for future projects:
 
 ```text
 project-name/
@@ -22,13 +30,4 @@ project-name/
 └── assets/
 ```
 
-This is a suggested layout; it does not mean these files already exist. Keep the source, assets and project documentation together.
-
-## Before publishing
-
-- Test the website on desktop and mobile.
-- Verify all buttons, links and forms.
-- Remove secrets and private configuration.
-- Confirm images, fonts and libraries can be used and redistributed.
-- Include a screenshot and clear instructions to run locally.
-- Label the project as in progress or complete accurately.
+This is a suggested layout, not a description of files that already exist.
