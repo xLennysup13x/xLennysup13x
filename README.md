@@ -59,6 +59,11 @@ These notes are for authorised training labs. They use target placeholders and o
 
 This list describes my current learning areas, not professional certifications or expert-level experience.
 
+## Repository hygiene
+
+- [Security policy](SECURITY.md) — guidance for reporting concerns and publishing safely.
+- [`.gitignore`](.gitignore) — ignores common Python cache files, local environments and secret/config files.
+
 ## How I approach projects
 
 For each project, I aim to include:
