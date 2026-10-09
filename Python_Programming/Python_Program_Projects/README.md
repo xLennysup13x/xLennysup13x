@@ -1,33 +1,33 @@
-# Python Program Projects
+# Python Mini-Projects
 
-Small Python exercises and utility experiments. This folder currently contains beginner-level programs; review and test each one before describing it as complete.
+Small programs and experiments for practising Python. These are learning projects and should be tested and improved before being presented as finished applications.
 
-## Files
+## What's here
 
-| File | Purpose / current status |
-|---|---|
-| [Age calculator](<Welcome to the age calculator!.py>) | Small interactive age-calculation exercise; review input handling and edge cases |
-| [Grade calculator](calculate_grade.py) | Converts a numeric score to a letter grade; add input validation and tests |
-| [PowerShell credential template](powershell-credential-template.ps1) | PowerShell example that prompts for credentials rather than storing a password in source code |
-| `bhop.py` | Older game-process memory experiment; not a featured portfolio project and needs careful review before use |
+| File | Summary | Status |
+|---|---|---|
+| [Age calculator](<Welcome to the age calculator!.py>) | Interactive age-calculation exercise | Needs input and edge-case review |
+| [Grade calculator](calculate_grade.py) | Function that converts a score to a grade | Needs validation, examples, and tests |
+| [PowerShell credential template](powershell-credential-template.ps1) | Prompts for credentials rather than hard-coding a password | Example template |
+| `bhop.py` | Older game-process memory experiment | Not featured; review purpose and safety before further use |
 
-## Run a Python file
+## Run the Python examples
 
-From this directory, run a selected Python script with a compatible Python 3 installation:
+Install Python 3, open a terminal in this folder, and run:
 
 ```bash
 python "Welcome to the age calculator!.py"
 python calculate_grade.py
 ```
 
-The second script currently defines a function and does not print a result on its own; import it or add a small user interface and tests as a next step.
+The grade calculator currently defines a function; running the file by itself may not display a result.
 
-## Next improvements
+## Improvements to work on
 
-- Use clear, consistent filenames.
-- Add input validation and handle invalid values.
-- Add tests for normal and boundary cases.
-- Add expected input/output examples.
-- Add a root `.gitignore` and never commit passwords, tokens or private data.
+- Validate input and handle invalid values clearly.
+- Test normal, boundary, and unexpected cases.
+- Include sample input/output and setup instructions.
+- Use clear filenames and document limitations.
+- Never store passwords, API keys, tokens, or private data in source code.
 
-These are learning projects, not production-ready software.
+A small project that runs reliably and has clear documentation is a stronger portfolio piece than an unfinished project with an exaggerated description.
