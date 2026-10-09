@@ -1,21 +1,27 @@
 # Introduction to Python
 
-Beginner Python notes, small exercises, and examples covering core syntax, data types, conditions, loops, functions, and modules. Keep exercises separated by topic and include short examples of expected output.
+This folder contains beginner lesson notes and source examples organised into modules. Module 1 covers Python fundamentals, with source files in Lessons 1–7 and a prepared folder for Lesson 8.
 
-## Learning modules
+## Learning path
 
-- [Module 1 — Lessons 1–8](Module_1/README.md)
+1. [Module 1 — Introduction to Python](Module_1/README.md)
+2. Work through the lesson folders in order.
+3. Run examples with Python 3 and experiment with small changes.
+4. Add a short summary and practice exercise as each topic is completed.
 
-## Suggested contents
+## How to run an example
 
-- `README.md` explaining the purpose and how to use the material
-- Source files organised by topic or project
-- Example input/output or screenshots where useful
-- Requirements and tested Python version for projects
-- Tests and notes about improvements
+From a terminal, run the relevant `.py` file with Python 3. Because some filenames contain spaces, put the filename in quotes.
 
-## Before publishing
+```bash
+python "Module_1/LESSON_1/Python HOME.py"
+```
 
-- Remove passwords, API keys, tokens, and personal data.
-- Do not commit virtual environments, cache folders, or generated files.
-- Check the code runs from a clean setup and document any dependencies.
+## Good practice
+
+- Work through the code and make sure you understand it before presenting it as your own independent work.
+- Use small examples to practise each concept.
+- Add expected output and exercises to lesson notes.
+- Do not put passwords, tokens or personal information in examples.
+
+These materials represent a learning path; completing the lessons and adding exercises will make the progress easier to demonstrate.
