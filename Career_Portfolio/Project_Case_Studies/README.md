@@ -1,21 +1,16 @@
 # Project Case Studies
 
-Use one Markdown file per substantial project. A good case study should make the work easy for a recruiter or hiring manager to evaluate.
+Use one Markdown file per substantial project. Keep each case study factual, easy to scan, and supported by working code or a demo.
 
-## Suggested template
-
-Create a file such as `shift-pay-tracker.md` and include:
+## Suggested structure
 
 1. **Overview:** what the project does and who it is for.
-2. **Problem:** the need or workflow it addresses.
-3. **Features:** what currently works; separate future ideas.
-4. **Technology:** languages, frameworks, libraries and why they were chosen.
-5. **Implementation:** architecture, data model and important decisions.
-6. **Testing:** test cases, edge cases and what passed.
-7. **Screenshots or demo:** visual evidence and a link to the source code.
-8. **Challenges and learning:** what changed during development.
-9. **Next steps:** realistic improvements.
+2. **Problem:** the need it addresses.
+3. **Features:** what works now, separated from planned ideas.
+4. **Technology:** languages, frameworks, and libraries actually used.
+5. **Implementation:** important design choices.
+6. **Testing:** checks performed and results.
+7. **Demo:** screenshots and links to the source.
+8. **Learning:** challenges, decisions, and what you would improve next.
 
-## Suggested first case study
-
-Start with one real project that you can run and demonstrate end to end. A small, finished, well-documented project is stronger evidence than a long list of unfinished ideas.
+Start with one project you can run and explain from beginning to end. Do not claim that a feature works unless you have tested it.
