@@ -4,6 +4,12 @@
 
 I'm learning by building small projects, documenting what I discover, and improving my code over time. This repository brings together my programming exercises, website experiments, and notes from authorised cybersecurity labs.
 
+<p align="left">
+  <a href="https://ghostmind.dev/"><img src="https://img.shields.io/badge/GHOSTMIND-portfolio-111827?style=flat-square&labelColor=050505" alt="GhostMind portfolio" /></a>
+  <a href="https://github.com/xLennysup13x?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-projects-111827?style=flat-square&labelColor=050505" alt="GitHub projects" /></a>
+  <img src="https://img.shields.io/badge/STATUS-building%20%26%20learning-84cc16?style=flat-square&labelColor=050505" alt="Status: building and learning" />
+</p>
+
 - **Portfolio:** [ghostmind.dev](https://ghostmind.dev/)
 - **GitHub projects:** [Browse repositories](https://github.com/xLennysup13x?tab=repositories)
 
@@ -18,10 +24,33 @@ I'm learning by building small projects, documenting what I discover, and improv
 
 > Project status is stated honestly: not every folder is a finished application. The GhostPepe page includes token-related information that must be verified before it is promoted or relied on.
 
+## Current status
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FOCUS-cybersecurity-84cc16?style=flat-square&labelColor=050505" alt="Focus: cybersecurity" />
+  <img src="https://img.shields.io/badge/BUILDING-Python%20%7C%20Web-84cc16?style=flat-square&labelColor=050505" alt="Building with Python and web technologies" />
+  <img src="https://img.shields.io/badge/MINDSET-learn%20by%20building-84cc16?style=flat-square&labelColor=050505" alt="Mindset: learn by building" />
+</p>
+
+```text
+┌─ GHOSTMIND / DEV STATUS
+├─ mode       : building
+├─ focus      : cybersecurity · software · AI
+├─ stack      : Python · HTML · CSS · JavaScript
+└─ next       : finish HTB Metasploit module
+```
+
 ## Cybersecurity learning — Hack The Box Academy
 
 I'm building practical cybersecurity skills through **Hack The Box Academy** under the username **`xsystem32x`**.
 
+<p align="left">
+  <a href="https://academy.hackthebox.com/"><img src="https://img.shields.io/badge/HTB%20ACADEMY-Level%2034-84cc16?style=flat-square&labelColor=050505" alt="HTB Academy level 34" /></a>
+  <img src="https://img.shields.io/badge/METASPLOIT-60%25-84cc16?style=flat-square&labelColor=050505" alt="Metasploit module progress: 60 percent" />
+  <img src="https://img.shields.io/badge/COMPLETED%20MODULES-20-84cc16?style=flat-square&labelColor=050505" alt="20 completed modules shown in dashboard" />
+</p>
+
+- **Academy username:** `xsystem32x`
 - **Academy level:** 34 *(from my dashboard screenshot)*
 - **Current module:** [Using the Metasploit Framework](https://academy.hackthebox.com/) — **60% complete**
 - **Completed modules:** 20 shown as completed in my current module list
