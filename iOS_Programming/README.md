@@ -1,14 +1,5 @@
-# iOS programming
+# iOS Programming
 
-Swift and iOS app experiments. Document the Xcode and iOS deployment versions, setup steps, and the main features. Keep signing credentials and secrets out of Git.
+A workspace for Swift exercises and iOS app experiments. Add a project folder when source code is ready to share.
 
-## Projects
-
-Add project folders here. Each project should include its own README with:
-- Purpose and features
-- Tools and versions
-- Setup and usage instructions
-- Screenshots or sample output where useful
-- What I learned and possible improvements
-
-> Keep credentials, private data, and files you do not have permission to redistribute out of this repository.
+For each app, document the purpose, main features, Xcode and deployment versions, setup steps, screenshots, and known limitations. Never commit signing credentials, API keys, or private user data.
