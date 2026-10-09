@@ -12,7 +12,7 @@ I'm learning by building small projects, documenting what I discover, and improv
 | Project | Summary | Status |
 |---|---|---|
 | [GhostPepe Website](HTML_Programming/ghostpepe-website-meme-coin-project/README.md) | Single-page HTML website concept with a dark theme and community links | Needs review |
-| [Age Calculator](Python_Programming/Python_Program_Projects/README.md) | Beginner Python program for practising date and input handling | Learning project |
+| [Age Calculator](Python_Programming/Python_Program_Projects/Welcome%20to%20the%20age%20calculator!.py) | Beginner Python program for practising date and input handling | Learning project |
 | [Grade Calculator](Python_Programming/Python_Program_Projects/calculate_grade.py) | Small function that maps a score to a grade | Learning project |
 | [HTB Lab Write-ups](writeups/README.md) | Notes on SMB, FTP, and Redis fundamentals in authorised training labs | Learning notes |
 
