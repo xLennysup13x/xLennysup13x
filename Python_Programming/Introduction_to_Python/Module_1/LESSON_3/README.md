@@ -1,15 +1,14 @@
-# Lesson 3
+# LESSON 3 — Python data types
 
-Add the Lesson 3 source files and notes here. Record the topic covered, examples, and what you learned.
+**Status:** Example source file is present.
 
-## Lesson files
+Source: [`Python Data Types.py`](<Python Data Types.py>)
 
-Add the original Python scripts, exercises, and notes for this lesson here.
+## Study notes
 
-## Notes
+- Run the example with Python 3.
+- Write a short explanation of the key concept in your own words.
+- Try changing the example and record the output.
+- Add one small practice exercise and note any questions.
 
-- **Concepts covered:** Add the topics from the lesson.
-- **Practice:** Add exercises and examples.
-- **What I learned:** Summarise the main takeaway.
-
-> This is a folder placeholder. The original lesson files have not been uploaded yet.
+Keep the lesson focused on the concept and avoid including passwords or personal data.
