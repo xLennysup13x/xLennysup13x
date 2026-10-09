@@ -2,6 +2,10 @@
 
 Beginner Python notes, small exercises, and examples covering core syntax, data types, conditions, loops, functions, and modules. Keep exercises separated by topic and include short examples of expected output.
 
+## Learning modules
+
+- [Module 1 — Lessons 1–8](Module_1/README.md)
+
 ## Suggested contents
 
 - `README.md` explaining the purpose and how to use the material
