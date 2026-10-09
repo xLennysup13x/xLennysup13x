@@ -18,6 +18,18 @@ I'm learning by building small projects, documenting what I discover, and improv
 
 > Project status is stated honestly: not every folder is a finished application. The GhostPepe page includes token-related information that must be verified before it is promoted or relied on.
 
+## Cybersecurity learning — Hack The Box Academy
+
+I'm building practical cybersecurity skills through **Hack The Box Academy** under the username **`xsystem32x`**.
+
+- **Academy level:** 34 *(from my dashboard screenshot)*
+- **Current module:** [Using the Metasploit Framework](https://academy.hackthebox.com/) — **60% complete**
+- **Completed modules:** 20 shown as completed in my current module list
+- **Learning areas:** Linux and Windows fundamentals, networking, web requests, SQL injection, file inclusion, file transfers, and introductory penetration testing
+- **Next focus:** Finish the Metasploit Framework module, including Sessions & Jobs and Meterpreter
+
+This section reflects my learning progress, not a professional certification or a claim of expertise. Progress may change as I complete more modules. I practise offensive security only in authorised training labs and systems where I have permission.
+
 ## Explore the repository
 
 - [Python programming](Python_Programming/README.md) — fundamentals, lessons, and small programs
@@ -39,9 +51,10 @@ These are current learning areas, not a claim of professional-level expertise or
 ## Current priorities
 
 1. Finish and test one small Python project from start to finish.
-2. Improve project READMEs with clear instructions and examples.
-3. Review the GhostPepe website, including links, claims, accessibility, and mobile layout.
-4. Add source files, screenshots, and tests as projects become ready.
+2. Complete the Metasploit Framework Academy module and document key takeaways.
+3. Improve project READMEs with clear instructions and examples.
+4. Review the GhostPepe website, including links, claims, accessibility, and mobile layout.
+5. Add source files, screenshots, and tests as projects become ready.
 
 ## Publishing responsibly
 
