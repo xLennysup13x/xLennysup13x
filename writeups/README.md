@@ -1,11 +1,11 @@
-# Cybersecurity Lab Write-ups
+# Cybersecurity Lab Notes
 
-Beginner notes from authorised Hack The Box training labs. The goal is to record the approach, concepts learned and defensive lessons without publishing flags, credentials or target-specific secrets.
+Beginner write-ups from authorised Hack The Box training labs. Each note records the approach and concepts learned, with an emphasis on safe practice rather than sharing flags or credentials.
 
-| Lab | Focus |
+| Lab | Topic |
 |---|---|
-| [Dancing](dancing.md) | SMB enumeration and share permissions |
+| [Dancing](dancing.md) | SMB shares and permissions |
 | [Fawn](fawn.md) | FTP and anonymous access |
-| [Redeemer](redeemer.md) | Redis service enumeration |
+| [Redeemer](redeemer.md) | Redis service basics |
 
-Use the IP address assigned to your own active lab. Do not use these notes to test systems without permission.
+Use the target address assigned to your own active lab. Only test systems you own or have explicit permission to assess.
