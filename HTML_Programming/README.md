@@ -1,40 +1,34 @@
 # HTML & Web Projects
 
-This directory organises my website projects. Each project has its own folder and README so the code, documentation, screenshots and setup notes stay together.
+This directory groups website work by project. Some folders currently contain only starter documentation; the source file that is present in this folder is GhostPepe. I'll add the other local projects after their files have been reviewed and uploaded.
 
 ## Projects
 
-| Project | Description |
-|---|---|
-| [City of Bristol College Green](city-of-bristol-collage-green/README.md) | College Green web project |
-| [Ghost](ghost/README.md) | Web project awaiting source review and documentation |
-| [GhostMind Official Website 1.0](ghostmind-official-website-1-0/README.md) | First version of the GhostMind website |
-| [GhostPepe Website — Meme Coin Project](ghostpepe-website-meme-coin-project/README.md) | Meme-coin concept website |
+| Project | Current contents | Next step |
+|---|---|---|
+| [GhostPepe Website](ghostpepe-website-meme-coin-project/README.md) | [HTML source](ghostpepe-website-meme-coin-project/GhostPepe%20Website.html) | Verify external links and token claims, check responsiveness, add screenshots and test buttons |
+| [City of Bristol College Green](city-of-bristol-collage-green/README.md) | Starter documentation | Upload the original website files |
+| [Ghost](ghost/README.md) | Starter documentation | Upload the original website files and clarify the purpose |
+| [GhostMind Official Website 1.0](ghostmind-official-website-1-0/README.md) | Starter documentation | Upload the original website files |
 
-## Recommended structure
-
-Keep each project self-contained:
+## Suggested structure for each website
 
 ```text
-HTML_Programming/
+project-name/
 ├── README.md
-├── city-of-bristol-collage-green/
-│   ├── README.md
-│   ├── index.html
-│   ├── css/
-│   ├── js/
-│   └── assets/
-├── ghost/
-├── ghostmind-official-website-1-0/
-└── ghostpepe-website-meme-coin-project/
+├── index.html
+├── css/
+├── js/
+└── assets/
 ```
 
-The tree above is a suggested structure, not a claim that these files already exist. Once the source files are uploaded, update each README with verified technologies, run instructions, screenshots and a demo link.
+This is a suggested layout; it does not mean these files already exist. Keep the source, assets and project documentation together.
 
-## Publishing checklist
+## Before publishing
 
-- Remove secrets and private configuration before committing.
-- Confirm third-party assets and logos are licensed for use.
-- Test pages on desktop and mobile.
-- Add a screenshot or demo link when available.
-- Label projects as planned, in progress or complete accurately.
+- Test the website on desktop and mobile.
+- Verify all buttons, links and forms.
+- Remove secrets and private configuration.
+- Confirm images, fonts and libraries can be used and redistributed.
+- Include a screenshot and clear instructions to run locally.
+- Label the project as in progress or complete accurately.
