@@ -1,19 +1,7 @@
-# City of Bristol College Green Project
+# City of Bristol — College Green
 
-**Status:** Project files to be reviewed and documented.
+**Status: Documentation only.** The original website source is not currently in this folder.
 
-A web project inspired by College Green in Bristol. Use this folder for the original source, screenshots, assets and notes describing the goal and current state. Preserve the original work and only publish images/assets you have permission to share.
+When adding the project, include the original HTML/CSS/JavaScript, permitted assets, a short explanation of the goal, and screenshots of the result. Confirm that images and other assets may be published before committing them.
 
-## Project details
-
-- **Purpose:** Add a short explanation of what the project does.
-- **Technologies:** Confirm from the source files before listing the stack.
-- **Run locally:** Add verified setup and run commands after reviewing the project files.
-- **Preview:** Add screenshots or a live demo link if available.
-- **What I learned:** Record the main skills and challenges from building it.
-
-## Before publishing
-
-- Remove secrets, credentials, private keys, and personal data.
-- Check that images, fonts, and other assets can be redistributed.
-- Verify links and test the project before describing it as finished.
+Document how to run the site and note any unfinished features or limitations.
