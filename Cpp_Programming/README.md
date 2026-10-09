@@ -1,14 +1,5 @@
-# C++ programming
+# C++ Programming
 
-C++ practice, small applications, algorithms, and experiments. For each project, include build/run instructions, compiler requirements, and examples of expected output.
+A workspace for C++ exercises, algorithms, and small applications. Add projects here as source code becomes available.
 
-## Projects
-
-Add project folders here. Each project should include its own README with:
-- Purpose and features
-- Tools and versions
-- Setup and usage instructions
-- Screenshots or sample output where useful
-- What I learned and possible improvements
-
-> Keep credentials, private data, and files you do not have permission to redistribute out of this repository.
+For each project, document its purpose, compiler requirements, build/run commands, sample output, and known limitations. Keep code readable and do not commit secrets or private data.
